@@ -1,0 +1,50 @@
+#userWeightLabel{
+    position: relative;
+    top: 0%;
+    left: 0%;
+    font: 14pt;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0%;
+}
+
+#planetLabel{
+    position: relative;
+    top: 0%;
+    left: 20%;
+    font: 14pt;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0%;
+
+}
+
+#user-weight{
+    min-height: 20px;
+    min-width: 200px;
+    
+}
+#planets{
+    position: relative;
+    top: 0%;
+    left: 10%;
+    font: 14pt;
+    min-height: 20%;
+    min-width: 10%;
+}
+
+#calculate-button{
+    position: absolute;
+    left:50%;
+    min-height: 20px;
+    min-width: 150px;
+
+}
+
+#output{
+    width: 610px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 10;
+    font: 14pt;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
